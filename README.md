@@ -2,9 +2,9 @@
 
 **Name:** Nikolas Malek
 
-**GitHub Pages link (expose):** *(will fill in at the end)*
+**GitHub Pages — Expose:** https://NikolasMalek.github.io/Lab5/expose.html
 
-**GitHub Pages link (explore):** *(will fill in at the end)*
+**GitHub Pages — Explore:** https://NikolasMalek.github.io/Lab5/explore.html
 
 
 ## Check Your Understanding
